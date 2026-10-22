@@ -1,3 +1,5 @@
+下载：
+https://github.com/2dust/v2rayN/releases/tag/
 # v2rayN
 
 ### A GUI client for Windows, Linux and macOS. Support [Xray](https://github.com/XTLS/Xray-core) and [sing-box](https://github.com/SagerNet/sing-box) and [others](https://github.com/2dust/v2rayN/wiki/List-of-supported-cores)
